@@ -17,7 +17,7 @@
 ### Prototypes
 
 ##### This prototype roughly demonstrates how users could visualize more organized, coherent UI for media selection. As opposed to the current user interface which has a grid of all available media at the same size, this allows users to filter the content selection down by choosing broad media categories, then subcategories within that main cateogry, and finally see content cards pertaining to the specific category they are interested in, reducing visual load. These content cards would scale dynamically as the user enters specific categories, eliminating undesired content cards from appearing and making better use of the user interface. 
-![image](/imgs/homepage.jpg)
+![image](/imgs/homepage.png)
 
 ##### The below image shows how the UI could dynamically scale to limit content cards displayed as user select specific categories they are interested in. In this instance, the user was presented with the screen shown above, then tabbed to 'TV & Shows' to 'Drama' and can now access the content they are interested with their selections mirrored on the screen, decreasing cognitive load from undesired content cards. 
 ![image](/imgs/selected.png)
