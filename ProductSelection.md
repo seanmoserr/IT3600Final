@@ -9,4 +9,7 @@
 
 ###### Netflix offers unlimited access to a wide library of movies and TV shows, the ability to download such content onto a local device, personalized profiles with unique recommendations. At it's core, users use the app to explore and chose media from the vast library. Users expect a functioning platform that allows them to easily sign-in, explore and find media to consume, and a simplistic user interface for viewing said content. The primary target demographic for Netflix's services, according to businessmodelanalyst.com, are indiviuals aged 18 to 39. This demographic is likely a target for the media giant because this demographic is generally tech-savvy and enjoy streaming new-form content. Driven by a desire to seek out on-demand content, flexibility in viewing options, and inclination towards subscription based models, this is the target demographic this project identifies as our core user base. 
 
+### Next
+[Cognitive Walkthrough Simulation](https://github.com/seanmoserr/IT3600Final/blob/main/CognitiveWalkthroghExecution.md)
+
 
