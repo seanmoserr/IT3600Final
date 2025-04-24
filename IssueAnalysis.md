@@ -9,3 +9,6 @@
 ### Comprehensive Evaluation
 
 ###### The main user interface for the task of selecting content does not currently support user's decision-making an in optimized, efficient manner. By better categorizing shows into layered menus, such as Continue Watching > content cards here, Movies > Action & Adventure, Drama, Comedy, Trending > movies here under each category and TV > Action & Adventure, Drama, Comedy, Trending > shows here under each category, etc., users would have an easier time finding the content they are looking for because there is more layered organization of each category, as opposed to the lack of organization and general fluidness of each category not being placed in consistent locations, these changes would improve the user experience. During the on-boarding process, personalization should be configured as an option, so users can set creating additional viewing profiles, configuring recommendation features, setting parental controls, etc.,  could be stored under the base user's profile settings for easy access when they want to spend the time doing so. Making these steps required as part of the required on-boarding process adds to unnecessary cognitive load on the end user. 
+
+##### Next 
+[Design Prototyping](https://github.com/seanmoserr/IT3600Final/blob/main/DesignPrototyping.md)
