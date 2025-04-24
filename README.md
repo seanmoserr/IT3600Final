@@ -9,5 +9,5 @@
 ##### Firstly, this project will focus on Netflix's user inteface, specifically the app's main landing page. As opposed to the user interface associated with playing, stopping, and adjusting settings relating to the content itself, this project focuses on the user interface associated with user's navigating and exploring the product's extensive library and selecting media.  
 
 ### Contents (in order)
-[Product Selection](https://github.com/seanmoserr/IT3600Final/blob/main/ProductSelection.md)
-[Cognitive Walkthrough Simulation](https://github.com/seanmoserr/IT3600Final/blob/main/CognitiveWalkthroghExecution.md)
+1. [Product Selection](https://github.com/seanmoserr/IT3600Final/blob/main/ProductSelection.md)
+2. [Cognitive Walkthrough Simulation](https://github.com/seanmoserr/IT3600Final/blob/main/CognitiveWalkthroghExecution.md)
