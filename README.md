@@ -11,3 +11,4 @@
 ### Contents (in order)
 1. [Product Selection](https://github.com/seanmoserr/IT3600Final/blob/main/ProductSelection.md)
 2. [Cognitive Walkthrough Simulation](https://github.com/seanmoserr/IT3600Final/blob/main/CognitiveWalkthroghExecution.md)
+3. [Issue Analyis](https://github.com/seanmoserr/IT3600Final/blob/main/IssueAnalysis.md)
