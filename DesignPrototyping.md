@@ -24,3 +24,6 @@
 
 ##### Finally, below is an example of how the 'Smart Keyboard' would work, with autocomplete suggestions based on currently typed text, decreasing the workload placed on the user to complete popular tasks. 
 ![image](/imgs/smartSearch.png)
+
+###### Back To ReadMe.md
+[ReadMe.md](https://github.com/seanmoserr/IT3600Final/blob/main/README.md)
